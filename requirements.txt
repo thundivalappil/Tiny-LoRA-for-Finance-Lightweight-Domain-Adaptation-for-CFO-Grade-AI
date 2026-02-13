@@ -1,0 +1,6 @@
+transformers>=4.40.0
+datasets>=2.18.0
+peft>=0.10.0
+accelerate>=0.29.0
+sentencepiece>=0.2.0
+torch
